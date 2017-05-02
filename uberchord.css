@@ -444,6 +444,9 @@ a.prev i, a.next i{
 		padding: 100px 20px 20px 20px;
 		margin: 0;
 	}
+	div#submain{
+		width: 100%;
+	}
 	div.boxsong{
 		width: 28%;
 		padding: 10px;
@@ -458,6 +461,9 @@ a.prev i, a.next i{
 	main{
 		padding: 100px 20px 20px 20px;
 		margin: 0;
+	}
+	div#submain{
+		width: 100%;
 	}
 	div.boxsong{
 		width: 45%;
