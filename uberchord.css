@@ -440,6 +440,9 @@ a.prev i, a.next i{
 
 
 @media only screen and (min-width : 681px) and (max-width : 1024px){
+	header .header_container{
+		margin: 0 0 0 2%;
+	}
 	main{
 		padding: 100px 20px 20px 20px;
 		margin: 0;
@@ -458,6 +461,9 @@ a.prev i, a.next i{
 }
 
 @media screen and (max-width: 680px){
+	header .header_container{
+		margin: 0 0 0 2%;
+	}
 	main{
 		padding: 100px 20px 20px 20px;
 		margin: 0;
