@@ -460,7 +460,7 @@ a.prev i, a.next i{
 	}
 }
 
-@media screen and (max-width: 680px){
+@media only screen and (max-width: 680px){
 	header .header_container{
 		margin: 0 0 0 2%;
 	}
