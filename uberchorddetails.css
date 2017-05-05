@@ -286,4 +286,8 @@ footer{
 	color: #242E3A;
 }
 
-
+@media only screen{
+	header .header_container{
+		margin: 0 0 0 2%;
+	}
+}
